@@ -1,0 +1,1 @@
+include ':app', ':fresco1', ':fresco2', ':fresco3', ':myapplication'
